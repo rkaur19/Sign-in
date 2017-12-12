@@ -8,9 +8,10 @@ The sign-in application is a simple front-end application that runs on a mobile 
 ### Installation instructions
 ### Architecture discussion (no more than one paragraph)
 ### Plan of action
- - [ ] Non- Functional Requirements
+ - [ ] Non- Functional Analysis
  - [ ] Architecture design
- - [ ] Client Input Submission
+ - [ ] Implementation
+ - [ ] Testing
  
 
 
