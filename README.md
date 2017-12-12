@@ -30,6 +30,8 @@ The visitor is presented with a web form asking for some necessary information:
 The image below is the user view on an iPad.
 ![screenshot 34](https://user-images.githubusercontent.com/15007021/33885312-d5def4f0-def7-11e7-95e1-a5ed2aed1395.png)
 
+The image below is the user view when Escort required is checked
+![screenshot 36](https://user-images.githubusercontent.com/15007021/33886549-ce34283e-defb-11e7-8032-9a1c0c8bf438.png)
 
 The image below is the user view on any browser.
 ![screenshot 33](https://user-images.githubusercontent.com/15007021/33885167-61356d6e-def7-11e7-8f30-7f4abf8a438a.png)
