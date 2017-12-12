@@ -4,9 +4,10 @@ The sign-in application is a simple front-end application that runs on a mobile 
 
 
 ## Software Processes Requirements
-### Nonfunctional requirements (design and tool selection analysis)
+### Nonfunctional requirements 
+Design: It is a simple front-end application that runs on an iPad or any kind of tablet. It communicates with a back-end database. This application is used as a kiosk device to collect information on visitors for a corporation. 
 ### Installation instructions
-### Architecture discussion (no more than one paragraph)
+### Architecture discussion 
 ### Plan of action
  - [ ] Non- Functional Analysis
  - [ ] Architecture design
