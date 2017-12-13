@@ -11,7 +11,7 @@ Complexity: how is the software evaluated? The software is built in a way that i
 Fork the repo then clone it to your local machine.<br />
 git clone https://github.com/rkaur19/Sign-in.git <br />
 Download XAMPP from https://www.apachefriends.org/download.html <br />
-Locate XAMPP from your C drive <br />
+Locate XAMPP in your C drive <br />
 go to "htdocs" folder <br />
 create a folder called "sign-in" <br />
 save the file "home.php" from the repo into that folder <br />
