@@ -19,12 +19,12 @@ click on phpMyAdmin <br />
 create your database as shown in the 2nd from the last image <br />
 ### Architecture discussion 
 The architecture used for this application is a three-tier architecture. The bottom layer consists of the database which has sql queries. The second layer is the application layer which consists of the user interface and the first layer is the client layer which is the front end. <br />
-![02-1024x790](https://user-images.githubusercontent.com/15007021/33917139-5c7181d6-df61-11e7-9768-97b4dc4608a4.png)<br />
+![02-1024x790](https://user-images.githubusercontent.com/15007021/33917139-5c7181d6-df61-11e7-9768-97b4dc4608a4.png)
 Reference: https://www.izenda.com/blog/5-benefits-3-tier-architecture/ <br />
 The langauges used for this project are: php, html, css, javascript and mysql. 
 The code is compacted into one file, "home.php" keeping it very simple and user friendly. 
 ### Plan of action
- - [ ] Non- Functional Analysis
+ - [x ] Non- Functional Analysis
  - [ ] Architecture design
  - [ ] Implementation (creation of database and front end)
  - [ ] Testing
