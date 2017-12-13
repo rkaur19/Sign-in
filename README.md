@@ -9,6 +9,7 @@ Design: It is a simple front-end application that runs on an iPad or any kind of
 Complexity: how is the software evaluated? The software is built in a way that it is very easy to access. It is available to everyone. 
 ### Installation instructions
 Fork the repo then clone it to your local machine.<br />
+git clone https://github.com/rkaur19/Sign-in.git <br />
 Download XAMPP from https://www.apachefriends.org/download.html <br />
 Locate XAMPP from your C drive <br />
 go to "htdocs" folder <br />
