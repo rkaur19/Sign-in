@@ -69,5 +69,6 @@ The admin can view the registered users in the form of a table in its admin view
 ![screenshot 41](https://user-images.githubusercontent.com/15007021/33915924-09db8274-df5b-11e7-9c7f-a4736416bad7.png)
 ![screenshot 42](https://user-images.githubusercontent.com/15007021/33915925-09f1668e-df5b-11e7-871e-1f14013f8ede.png)
 
-
+## Future Work
+Store checkbox values in the database
 
