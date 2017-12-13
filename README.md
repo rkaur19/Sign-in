@@ -6,14 +6,29 @@ The sign-in application is a simple front-end application that runs on a mobile 
 ## Software Processes Requirements
 ### Nonfunctional requirements 
 Design: It is a simple front-end application that runs on an iPad or any kind of tablet. It communicates with a back-end database. This application is used as a kiosk device to collect information on visitors for a corporation. 
+Complexity: how is the software evaluated? The software is built in a way that it is very easy to access. It is available to everyone. 
 ### Installation instructions
+Fork the repo then clone it to your local machine.<br />
+Download XAMPP from https://www.apachefriends.org/download.html <br />
+Locate XAMPP from your C drive <br />
+go to "htdocs" folder <br />
+create a folder called "sign-in" <br />
+save the file "home.php" from the repo into that folder <br />
+go to your localhost, for me it was localhost:8080 <br />
+click on phpMyAdmin <br />
+create your database as shown in the 2nd from the last image <br />
 ### Architecture discussion 
+The architecture used for this application is a three-tier architecture. The bottom layer consists of the database which has sql queries. The second layer is the application layer which consists of the user interface and the first layer is the client layer which is the front end.
+The langauges used for this project are: php, html, css, javascript and mysql. 
+The code is compacted into one file, "home.php" keeping it very simple and user friendly. 
 ### Plan of action
  - [ ] Non- Functional Analysis
  - [ ] Architecture design
- - [ ] Implementation
+ - [ ] Implementation (creation of database and front end)
  - [ ] Testing
  
+## Documentation Evaluation
+I used markdown(.md) for documentation because markdown has a very simple and an understandable syntax. It is well-formatted and is very fast to edit.
 
 ## Visitor's View
 The visitor is presented with a web form asking for some necessary information:
