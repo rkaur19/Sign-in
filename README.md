@@ -24,10 +24,10 @@ Reference: https://www.izenda.com/blog/5-benefits-3-tier-architecture/ <br />
 The langauges used for this project are: php, html, css, javascript and mysql. 
 The code is compacted into one file, "home.php" keeping it very simple and user friendly. 
 ### Plan of action
- - [x ] Non- Functional Analysis
- - [ ] Architecture design
- - [ ] Implementation (creation of database and front end)
- - [ ] Testing
+ - [x] Non- Functional Analysis
+ - [x] Architecture design
+ - [x] Implementation (creation of database and front end)
+ - [x] Testing
  
 ## Documentation Evaluation
 I used markdown(.md) for documentation because markdown has a very simple and an understandable syntax. It is well-formatted and is very fast to edit.
