@@ -28,10 +28,10 @@ The code is compacted into one file, "home.php" keeping it very simple and user 
  - [x] Non- Functional Analysis
  - [x] Architecture design
  - [x] Implementation (creation of database and front end)
+  Idea -> Non-functional Requirements -> tooling -> Functional Requirements -> Design -> Coding Complete -> Testing <br />
   
  ### Milestones
  
- Idea -> Non-functional Requirements -> tooling -> Functional Requirements -> Design -> Coding Complete -> Testing <br />
 - [x]  Project assigned: 12/5/2017 <br />
 - [x]  Project requirements uploaded on Github: 12/5/2017 <br />
  - [x] Non-functional Requirements: 12/5/2017 <br />
