@@ -28,8 +28,7 @@ The code is compacted into one file, "home.php" keeping it very simple and user 
  - [x] Non- Functional Analysis
  - [x] Architecture design
  - [x] Implementation (creation of database and front end)
- - [x] Testing
- 
+  
  ### Milestones
  
  Idea -> Non-functional Requirements -> tooling -> Functional Requirements -> Design -> Coding Complete -> Testing <br />
