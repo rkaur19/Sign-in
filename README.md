@@ -43,7 +43,7 @@ The code is compacted into one file, "home.php" keeping it very simple and user 
 - [x]  Documentation (Readme): 12/11/2017 <br />
  
 ## Documentation Evaluation
-I used markdown(.md) for documentation because markdown has a very simple and an understandable syntax. It is well-formatted and is very fast to edit.
+I used markdown for documentation because markdown has a very simple and an understandable syntax. It is well-formatted and is very fast to edit.
 
 ## Visitor's View
 The visitor is presented with a web form asking for some necessary information:
@@ -53,7 +53,7 @@ The visitor is presented with a web form asking for some necessary information:
 * Company
 * Official visit (checkbox)
 * Escort required (checkbox)
-* Escort name (if Escort is checked)
+* Escort name
 
 Web View for the user to Sign-in
 ![screenshot 43](https://user-images.githubusercontent.com/15007021/33916261-c9931d92-df5c-11e7-9501-e178102f0e4f.png)
