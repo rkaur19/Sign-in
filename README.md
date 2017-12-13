@@ -15,8 +15,6 @@ Design: It is a simple front-end application that runs on an iPad or any kind of
  - [ ] Testing
  
 
-
-
 ## Visitor's View
 The visitor is presented with a web form asking for some necessary information:
 * Name
@@ -26,34 +24,6 @@ The visitor is presented with a web form asking for some necessary information:
 * Official visit (checkbox)
 * Escort required (checkbox)
 * Escort name (if Escort is checked)
-
-The image below is the user view on an iPad.
-![screenshot 34](https://user-images.githubusercontent.com/15007021/33885312-d5def4f0-def7-11e7-95e1-a5ed2aed1395.png)
-
-The image below is the user view when Escort required is checked
-![screenshot 36](https://user-images.githubusercontent.com/15007021/33886549-ce34283e-defb-11e7-8032-9a1c0c8bf438.png)
-
-The image below is the user view on any browser.
-![screenshot 33](https://user-images.githubusercontent.com/15007021/33885167-61356d6e-def7-11e7-8f30-7f4abf8a438a.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![screenshot 37](https://user-images.githubusercontent.com/15007021/33915920-09756b42-df5b-11e7-85db-053d7f36a330.png)
 ![screenshot 38](https://user-images.githubusercontent.com/15007021/33915921-0992d092-df5b-11e7-813c-77634ba328b8.png)
