@@ -37,3 +37,27 @@ The image below is the user view on any browser.
 ![screenshot 33](https://user-images.githubusercontent.com/15007021/33885167-61356d6e-def7-11e7-8f30-7f4abf8a438a.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![screenshot 37](https://user-images.githubusercontent.com/15007021/33915920-09756b42-df5b-11e7-85db-053d7f36a330.png)
+![screenshot 38](https://user-images.githubusercontent.com/15007021/33915921-0992d092-df5b-11e7-813c-77634ba328b8.png)
+![screenshot 39](https://user-images.githubusercontent.com/15007021/33915922-09ab69cc-df5b-11e7-81e3-00c3569b7ebc.png)
+![screenshot 40](https://user-images.githubusercontent.com/15007021/33915923-09c23c38-df5b-11e7-92b6-12d8792bfccf.png)
+![screenshot 41](https://user-images.githubusercontent.com/15007021/33915924-09db8274-df5b-11e7-9c7f-a4736416bad7.png)
+![screenshot 42](https://user-images.githubusercontent.com/15007021/33915925-09f1668e-df5b-11e7-871e-1f14013f8ede.png)
