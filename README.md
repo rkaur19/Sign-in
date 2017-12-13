@@ -30,6 +30,18 @@ The code is compacted into one file, "home.php" keeping it very simple and user 
  - [x] Implementation (creation of database and front end)
  - [x] Testing
  
+ ### Milestones
+ 
+ Idea -> Non-functional Requirements -> tooling -> Functional Requirements -> Design -> Coding Complete -> Testing <br />
+- [x]  Project assigned: 12/5/2017 <br />
+- [x]  Project requirements uploaded on Github: 12/5/2017 <br />
+ - [x] Non-functional Requirements: 12/5/2017 <br />
+- [x]  Architectural Design: 12/6/2017 <br />
+ - [x] Tooling: 12/7/2017 <br />
+ - [x] Implementation: 12/10/2017 <br />
+ - [x] Testing: 12/10/2017-12/12/2017 <br />
+- [x]  Documentation (Readme): 12/11/2017 <br />
+ 
 ## Documentation Evaluation
 I used markdown(.md) for documentation because markdown has a very simple and an understandable syntax. It is well-formatted and is very fast to edit.
 
