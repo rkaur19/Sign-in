@@ -64,10 +64,7 @@ iPad view for the user to Sign-in
 
 
 ## Admin View
-The admin can view the registered users in the form of a table in its admin view which is phpMyAdmin
+The admin can view the registered users in the form of a table in its admin view through http://localhost/sign-in/admin.php
 ![screenshot 41](https://user-images.githubusercontent.com/15007021/33915924-09db8274-df5b-11e7-9c7f-a4736416bad7.png)
 ![screenshot 47](https://user-images.githubusercontent.com/15007021/33920735-5fae9380-df74-11e7-9239-43d29c36cb34.png)
-
-## Future Work
-Store checkbox values in the database
 
